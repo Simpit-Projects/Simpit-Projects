@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Simpit-Projects/Simpit-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to the Github Page of Simpit
+
+We keep you posted of projects of Simpit 
+
+Visit our website at https://simpit.nl
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at info@simpit.nl
